@@ -1,8 +1,8 @@
 # Sample Website
 This is a sample website made as part of
-[*Learn Enough™ Git to Be Dangerous*](http://learnenough.com/git-tutorial),
+[*Learn Enough™ Git to Be Dangerous*](https://libgen.is/search.php?req=Learn+Enough+Git+to+Be+Dangerous&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def),
 possibly the greatest beginner Git tutorial in the history of the Universe.
-You should totally [check it out](http://learnenough.com/git-tutorial),
+You should totally [check it out](https://libgen.is/search.php?req=Learn+Enough+Git+to+Be+Dangerous&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def),
 and be sure to [join the email list](http://learnenough.com/#email_list) and
 [follow @learnenough](http://twitter.com/learnenough) on Twitter.
 After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git to be
